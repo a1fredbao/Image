@@ -1,7 +1,6 @@
 import React, { useState, useRef, useCallback } from 'react';
 import {
   Box,
-  Button,
   Paper,
   Typography,
   LinearProgress,
