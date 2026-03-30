@@ -9,3 +9,8 @@ not_found_handling = "single-page-application"
 
 [placement]
 mode = "smart"
+
+[observability]
+[observability.logs]
+enabled = true
+invocation_logs = true
